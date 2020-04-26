@@ -1,0 +1,11 @@
+Version 0.8.0
+
+Added
+ - Added fullscreen
+   - Only functional in 1920 x 1080 resolutions
+
+Removed
+ - Removed coding junk
+
+Fixed
+ ~
